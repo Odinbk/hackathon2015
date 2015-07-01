@@ -1,0 +1,8 @@
+TEST_CASE_ROOT = "cases"
+DSL_FILE_NAME = 'runner.dsl'
+DEFAULT_TEST_CASE_DURATION = 1
+PARTITION_DEPTH = 4
+NOSE_CFG_FILE = 'nose-{}.cfg'
+TOP_SLOW_COUNT = 10
+TREND_CHART = 'trend.jpg'
+SCATTER_CHART = 'scatter.jpg'
